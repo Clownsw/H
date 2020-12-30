@@ -103,8 +103,21 @@ body{
 	.Laoxiu_Main-rl{
 		padding-right: 6rem !important; 
 		padding-left: 6rem !important;
+		padding-top: 0.9rem !important;
 	}
 	.col-lg-12>h2>img{
 		display: none;
+	}
+	#x-top{
+		margin-top: 20px !important;
+	}
+}
+
+@media (max-width: 682px){
+	.Laoxiu_Main-rl{
+		padding-top: 0.9rem !important;
+	}	
+	#x-top{
+		margin-top: 20px !important;
 	}
 }
