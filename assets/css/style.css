@@ -45,7 +45,7 @@ body{
 .Laoxiu_Main-containar{
 	background: #cae1aa;
 	background: rgba(0,0,0,.6);
-	height: 51rem;
+	height: auto;
 }
 
 .progress>.progress-bar>p{
@@ -121,3 +121,4 @@ body{
 		margin-top: 20px !important;
 	}
 }
+
